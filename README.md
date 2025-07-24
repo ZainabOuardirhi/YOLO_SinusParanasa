@@ -11,6 +11,7 @@ on sinus segmentation tasks from medical CT scan slices.
 
 ---
 ## Repository Structure
+```bash
 .
 ├── checkpoints/            # Trained model weights
 ├── data/                   # YAML configs (paths, classes)
