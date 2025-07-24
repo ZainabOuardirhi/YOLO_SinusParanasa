@@ -26,7 +26,7 @@ on sinus segmentation tasks from medical CT scan slices.
 ├── yolov7/                 # YOLOv7 source code
 ├── yolov7_1/               # YOLOv7 trained model variant 1
 ├── yolov7_2/               # YOLOv7 trained model variant 2
-
+```
 ---
 ## Disclaimer
 
