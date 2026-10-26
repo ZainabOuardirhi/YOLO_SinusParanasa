@@ -1,0 +1,17 @@
+# Medical data, weights and generated experiment outputs
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.dcm
+*.dicom
+*.nii
+*.nii.gz
+*.h5
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+runs/
+checkpoints/
+.env
+.env.*
